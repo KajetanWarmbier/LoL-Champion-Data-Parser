@@ -10,7 +10,7 @@ Python's script to parse League of Legends' data from nested JSON to CSV file fo
 Script parses data connected with champions attributes.<br>
 Data to be joined with U.GG's champion stats.<br>
 
-**Work still in progress.**
+**[Work still in progress.]**
 
 ## Technologies
 Created with:
@@ -27,4 +27,4 @@ OS | Standard Python library.
 
 
 ## Output Example
-**TO BE WRITTEN*
+**TO BE WRITTEN**
