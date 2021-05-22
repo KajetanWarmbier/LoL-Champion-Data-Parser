@@ -27,4 +27,5 @@ OS | Standard Python library.
 
 
 ## Output Example
-**TO BE WRITTEN**
+![alt text](https://raw.githubusercontent.com/KajetanWarmbier/LoL-Champion-Data-Parser/main/README%20Assets/lolChampionDataParserPythonConsoleOutput.png "Python Output")
+![alt text](https://raw.githubusercontent.com/KajetanWarmbier/LoL-Champion-Data-Parser/main/README%20Assets/lolChampionDataParserPythonCsvOutput.png "CSV Output")
